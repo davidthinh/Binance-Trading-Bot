@@ -1,2 +1,2 @@
 # Binance-Crypto-Trading-Bot
-Trades using Stochastic RSI and Bollinger Bands indicators
+Makes pseudo trades using Stochastic RSI and Bollinger Bands indicators
