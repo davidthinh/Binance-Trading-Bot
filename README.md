@@ -25,6 +25,14 @@ a buy order and then when to sell it. This bot will not actually create the orde
 the orders and the values associated with those orders. All indicator information and buy and sell positions are display
 plot using matplotlib.
 
+#### Here are some example outputs:
+
+![](images/Example1.png)
+
+![](images/Example2.png)
+
+As you can see both images above show both the Stochastic RSI, Bollinger Band, closing prices, and the buy and sell positions.
+
 #### Below are some descriptions for each key value in the args dictionary within main.py:
 
 Full information on indicators can be found on https://www.investopedia.com/
