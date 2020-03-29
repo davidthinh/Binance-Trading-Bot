@@ -9,8 +9,7 @@ Using script make sure to:
 The python-binance is a open source library which you can find:
 https://github.com/sammchardy/python-binance
 
-What do these scripts do?
-
+<font size="5">What do these scripts do?</font>
 main.py:
 
 This script contained all the bots changeable information. With the information the script initializes and new
