@@ -9,7 +9,8 @@ Using script make sure to:
 The python-binance is a open source library which you can find:
 https://github.com/sammchardy/python-binance
 
-<font size="20">What do these scripts do?</font>
+####What do these scripts do?
+
 main.py:
 
 This script contained all the bots changeable information. With the information the script initializes and new
@@ -24,7 +25,7 @@ a buy order and then when to sell it. This bot will not actually create the orde
 the orders and the values associated with those orders. All indicator information and buy and sell positions are display
 plot using matplotlib.
 
-Below are some descriptions for each key value in the args dictionary within main.py:
+####Below are some descriptions for each key value in the args dictionary within main.py:
 
 Full information on indicators can be found on https://www.investopedia.com/
 
